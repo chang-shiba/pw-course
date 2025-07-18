@@ -3,9 +3,17 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chang-shiba/k16-chang.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chang-shiba/k16-chang/issues"
+  },
+  "homepage": "https://github.com/chang-shiba/k16-chang#readme",
   "description": "",
   "devDependencies": {
     "@playwright/test": "^1.54.1",
